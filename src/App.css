@@ -12,6 +12,10 @@ body {
   overflow: hidden;
   margin: 0;
 }
+header {
+  padding: 40px;
+}
+
 .App-footer {
-  margin: 20px;
+  margin: 60px;
 }
