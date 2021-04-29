@@ -1,10 +1,28 @@
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+body {
+  background-color: #6b9080;
+  color: #6b9080;
+  margin: auto 550px;
+}
 a {
-  color: black;
+  color: white;
+}
+h1 {
+  margin-top: 150px;
+  color: #eaf4f4;
+}
+h2 {
+  text-transform: capitalize;
 }
 header {
-  padding: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #eaf4f4;
 }
-
 .App-footer {
   margin: 60px;
+  color: #f6fff8;
 }
