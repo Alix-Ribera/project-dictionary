@@ -14,7 +14,12 @@ export default function App() {
           <DictionarySearch defaultKeyword="Dictionary" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Alix Simo</small>
+          <small>
+            <a href="https://github.com/Alix-Ribera/project-dictionary">
+              Open-source code{" "}
+            </a>
+            : by Alix Simo Ribera
+          </small>
         </footer>
       </div>
     </div>
