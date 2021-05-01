@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Upright&display=swap");
+
 .DictionarySearch section {
   background: #cce3de;
   padding: 30px;
@@ -13,10 +15,11 @@
   padding: 6px 10px;
   color: #333;
   border: 1px solid #ddd;
-  font-size: 20px;
+  font-family: "Cormorant Upright", serif;
+  font-size: 18px;
   min-width: 100%;
 }
 .DictionarySearch .hint {
-  font-size: 12px;
+  font-size: 18px;
   margin-top: 20px;
 }

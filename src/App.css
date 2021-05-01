@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Upright&display=swap");
 * {
   box-sizing: border-box;
 }
@@ -6,6 +7,8 @@ body {
   color: #6b9080;
   margin: 0 auto;
   max-width: 700px;
+  font-size: 25px;
+  font-family: "Cormorant Upright", serif;
 }
 a {
   color: white;
@@ -21,6 +24,8 @@ header {
   margin-top: 50px;
   margin-bottom: 50px;
   color: #eaf4f4;
+  font-family: "Cormorant Upright", serif;
+  font-size: 30px;
 }
 .App-footer {
   margin: 60px;
