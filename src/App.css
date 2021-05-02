@@ -9,9 +9,10 @@ body {
   max-width: 700px;
   font-size: 25px;
   font-family: "Cormorant Upright", serif;
+  text-align: justify;
 }
 a {
-  color: white;
+  color: #cce3de;
   text-decoration: none;
 }
 h1 {
@@ -27,6 +28,7 @@ header {
   color: #eaf4f4;
   font-family: "Cormorant Upright", serif;
   font-size: 30px;
+  text-align: justify;
 }
 .App-footer {
   margin: 60px;
