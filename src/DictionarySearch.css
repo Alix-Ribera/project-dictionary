@@ -11,6 +11,8 @@
   margin: 20px 0 30px 0;
 }
 .DictionarySearch input {
+  margin-top: 20px;
+  margin-bottom: 20px;
   border-radius: 6px;
   padding: 6px 10px;
   color: #333;
@@ -21,5 +23,4 @@
 }
 .DictionarySearch .hint {
   font-size: 18px;
-  margin-top: 20px;
 }

@@ -4,9 +4,12 @@
   font-weight: bold;
   text-transform: capitalize;
 }
-
 .Meaning .example {
   font-size: 17px;
   margin-top: 10px;
   font-style: italic;
+}
+.Meaning .definition {
+  margin-top: 60px;
+  margin-bottom: 20px;
 }
