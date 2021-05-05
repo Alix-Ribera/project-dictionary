@@ -4,6 +4,18 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
+        <label className="label">
+          <div className="toggle">
+            <input
+              className="toggle-state"
+              type="checkbox"
+              name="check"
+              value="check"
+            />
+            <div className="indicator"></div>
+          </div>
+          <div class="label-text">Light mode</div>
+        </label>
         <h1>A:</h1>
         <header>
           Reference publication listing words or terms with their meanings and
