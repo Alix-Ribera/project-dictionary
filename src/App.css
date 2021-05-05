@@ -35,3 +35,8 @@ header {
   color: #f6fff8;
   text-align: center;
 }
+.App-footer a:hover {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}

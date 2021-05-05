@@ -18,7 +18,10 @@ export default function App() {
             <a href="https://github.com/Alix-Ribera/project-dictionary">
               Open-source code{" "}
             </a>
-            : by Alix Simo Ribera
+            : by&nbsp;
+            <a href="https://alixribera.wixsite.com/portfolio/cv">
+              Alix Simo Ribera
+            </a>
           </small>
         </footer>
       </div>
